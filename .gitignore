@@ -3,3 +3,5 @@
 airbyte/*
 airbyte
 airbyte/
+dbt/
+dbt/*
