@@ -1,0 +1,21 @@
+"id_produto","nome","marca","id_categoria","preco_tabela","peso","cor","dt_atualizacao"
+1,Bola de Tênis,Queen,3,190.94,602.32,ciano,2022-02-19
+2,Tênis Feminino - Saibro,Racket,4,229.05,924.74,amarelo,2022-06-30
+3,Tênis Masculino - HC,Queen,4,959.40,458.41,magenta,2021-07-30
+4,Bola de Tênis,Querten,3,664.36,144.14,azul escuro,2022-02-16
+5,Corda,Racket,6,105.06,965.63,ciano,2021-10-23
+6,Munhequeira,Ciclop,2,345.27,62.77,laranja,2022-01-24
+7,Cushion Grip,Queen,2,439.56,301.08,rosa,2022-06-12
+8,Overgrip,Ciclop,2,267.22,233.92,verde escuro,2022-01-17
+9,Munhequeira,Racket,2,247.20,454.83,cinza,2022-02-03
+10,Tênis Masculino - Saibro,Racket,4,820.94,537.00,laranja,2021-12-31
+11,Raqueteira,Queen,2,528.31,604.39,azul,2021-09-06
+12,Raqueteira,Meligenni,2,491.65,210.27,azul escuro,2021-12-12
+13,Corda,Querten,6,236.78,7.40,amarelo,2022-05-01
+14,Tênis Feminino - Saibro,Meligenni,4,193.47,742.08,roxo,2021-10-08
+15,Tênis Masculino - HC,Racket,4,252.50,218.91,preto,2022-01-24
+16,Cushion Grip,Queen,2,872.56,310.94,ciano,2022-01-06
+17,Cushion Grip,Racket,2,835.98,508.12,verde escuro,2021-12-27
+18,Cushion Grip,Ciclop,2,817.73,726.08,marrom,2022-07-01
+19,Munhequeira,Ciclop,2,798.36,323.87,rosa,2022-06-08
+20,Munhequeira,Querten,2,904.09,773.82,violeta,2022-03-22

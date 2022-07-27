@@ -1,0 +1,26 @@
+
+version: 2
+
+models:
+  - name: dim_produtos
+    description: "A tabela dimensão produtos reune todos os dados de produtos da Saque e Voleio"
+    columns:
+      - name: id_produto
+        description: "A chave natural do produto"
+        tests:
+          - unique
+          - not_null
+      - name: nome_produto
+        description: "Nome do produto"
+      - name: marca
+        description: "Marca do produto"
+      - name: id_categoria
+        description: "ID da categoria"
+      - name: nome_categoria
+        description: "Nome da Categoria"
+      - name: preco_tabela
+        description: "Preço de tabela. Preço unitário do pedido pode não ser igual."                        
+      - name: cor
+        description: "Cor do produto" 
+      - name: dt_atualizacao
+        description: "Data de atualização do Produto" 

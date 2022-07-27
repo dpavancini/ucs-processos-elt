@@ -1,0 +1,11 @@
+saque_e_voleio_dbt: # this needs to match the profile in your dbt_project.yml file
+  target: dev
+  outputs:
+    dev:
+      type: postgres
+      host: localhost
+      user: postgres
+      password: postgres
+      port: 5432
+      database: data_warehouse
+      schema: marts

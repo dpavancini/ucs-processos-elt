@@ -1,7 +1,11 @@
 .venv
 .venv/*
+venv/
 airbyte/*
 airbyte
 airbyte/
 dbt/
 dbt/*
+logs/
+db/
+projeto_dbt/

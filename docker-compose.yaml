@@ -7,9 +7,11 @@ services:
     environment:
       - POSTGRES_USER=postgres
       - POSTGRES_PASSWORD=postgres
-      - POSTGRES_DB=saque_voleio_erp
+      - POSTGRES_DB=data_warehouse
       - POSTGRES_PORT=5432
     ports: 
       - '5432:5432'
     volumes:
       - ./db:/var/lib/postgresql/data
+     # Script para criar os dados de exemplo
+      - ./dados/create_tables.sql:/docker-entrypoint-initdb.d/create_tables.sql

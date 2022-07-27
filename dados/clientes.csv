@@ -1,0 +1,301 @@
+"id_cliente","nome","sobrenome","email","telefone","endereco","cidade","uf","pais","cep","dt_nascimento","dt_cadastro"
+1,Gustavo,Ramos,tda-luz@example.com,(084) 6818 1174,"Favela de Melo, 44
+Conjunto São Francisco De Assis
+35563678 Nascimento da Serra / RS",da Mata,AC,BR,"29232-037",2004-12-12,2021-06-18
+2,Yago,Costela,fariasmelissa@example.net,"21 4958-5857","Colônia Jesus, 44
+Gutierrez
+87942-095 Barros / SP",Costa do Norte,SE,BR,"48939557",1962-05-26,2021-04-26
+3,Maria Sophia,Correia,hda-mota@example.org,"0300-306-1629","Vila Pires, 80
+Santa Tereza
+33210231 Fernandes / AP",Azevedo da Prata,PA,BR,"75783-994",1989-12-22,2021-03-18
+4,Gustavo,da Rocha,mcardoso@example.com,"71 4133 0640","Área Benjamin Gonçalves, 16
+Vila Da Paz
+34019557 da Mata / AP",Moraes,SE,BR,"20058626",1987-07-21,2021-05-11
+5,Natália,Porto,kevinda-cruz@example.net,"0500 841 7269","Conjunto Enzo Gabriel das Neves, 7
+Vista Do Sol
+65110-760 Rocha / AM",Gonçalves,RS,BR,"89228922",1985-12-01,2021-02-04
+6,Nina,Nascimento,rodriguespedro@example.org,(071) 4353-0038,"Conjunto Ribeiro, 8
+Marçola
+37089-409 da Mata / AL",Rezende,RR,BR,"13551414",1982-04-19,2022-06-23
+7,Maria,Pires,pietrocarvalho@example.org,(081) 9923 6115,"Distrito Maria Cecília Correia, 40
+Castelo
+79087501 Caldeira de Pereira / MG",da Mota,PA,BR,"34434664",1984-04-08,2021-12-10
+8,Benício,Fogaça,elisada-luz@example.org,"84 1512 9753","Quadra Mendes, 5
+Santa Margarida
+15049799 Teixeira das Flores / MS",da Cruz Grande,SC,BR,"57696371",1997-08-27,2020-09-26
+9,Kevin,da Luz,fariasdavi-lucca@example.org,"0800-473-5609","Vila Rodrigo Cardoso, 349
+Milionario
+36600-418 Freitas / RS",Rocha da Prata,GO,BR,"74211793",1997-08-03,2022-02-09
+10,Davi Luiz,Mendes,alexiasantos@example.org,"61 5629 6391","Lago Pereira, 8
+Estoril
+37782-723 Nogueira do Sul / AC",Correia Verde,ES,BR,"37264486",1987-09-17,2021-11-03
+11,Yago,Ribeiro,cunhabernardo@example.net,+55 (081) 0866 6301,"Parque de Fogaça, 38
+Luxemburgo
+98555-641 Dias das Flores / AC",Viana do Norte,RS,BR,"76472-799",1985-12-27,2020-11-29
+12,Nathan,Alves,novaesfelipe@example.net,"71 3240 0187","Trecho Maria Eduarda da Paz
+Zilah Sposito
+39489-455 Ferreira do Campo / CE",Pires do Galho,RS,BR,"33526772",1988-12-19,2022-02-02
+13,Thales,da Luz,laviniadias@example.net,(011) 4748 9495,"Vale Vitor Pereira, 94
+Nossa Senhora Do Rosário
+86259455 Costa Verde / CE",Costa,AP,BR,"23208-877",2005-01-04,2022-03-02
+14,Julia,Lima,novaeseduardo@example.com,"11 7794-8909","Quadra Cardoso
+Vila Pinho
+09088-181 Monteiro / SE",Vieira do Campo,MA,BR,"95072060",2005-04-26,2022-03-16
+15,Maitê,Viana,sabrina47@example.org,+55 (071) 7794 3608,"Aeroporto de Cavalcanti, 72
+Estoril
+26293431 Silva / AL",Castro Verde,RR,BR,"93169-505",1988-11-08,2020-08-04
+16,Breno,Santos,leonardo54@example.net,+55 (041) 1876-1005,"Rua de Silva, 127
+Vila Independencia 1ª Seção
+19058048 da Mota de Caldeira / MS",da Rosa,PB,BR,"17072677",1990-06-17,2022-03-24
+17,Carolina,Fernandes,qcampos@example.com,"51 3183 1805","Passarela de Sales
+Vila Batik
+45951105 Rocha / AC",Freitas de Castro,RO,BR,"06381-429",1968-10-22,2020-08-31
+18,Olivia,Porto,alexandrecastro@example.net,(051) 9062 4390,"Alameda João Guilherme Gonçalves, 54
+Santa Branca
+52813-567 Alves / CE",Viana,CE,BR,"03196879",1999-04-08,2021-07-10
+19,Miguel,Sales,maitenascimento@example.com,"51 1034 6215","Feira Melo, 49
+Aparecida
+42567-177 Peixoto da Serra / DF",Campos de Monteiro,TO,BR,"67729088",1998-05-18,2021-11-10
+20,Luiz Henrique,Silveira,da-mataolivia@example.net,"31 9881-2074","Largo Leonardo Fogaça, 344
+Vila Puc
+31692128 da Luz de Gonçalves / AM",Gomes do Norte,CE,BR,"98386851",1997-10-31,2022-06-22
+21,Marcelo,Duarte,gramos@example.net,"0300 710 2043","Estrada Lorena Martins
+Casa Branca
+42779342 da Rocha / AP",da Rosa,MA,BR,"37209113",1993-10-26,2022-03-03
+22,Alice,Caldeira,sabrina83@example.net,+55 51 3070 0977,"Conjunto da Cruz, 533
+Cônego Pinheiro 2ª Seção
+18576583 Oliveira / RO",Carvalho do Galho,RO,BR,"53058-238",1975-12-01,2022-05-09
+23,Breno,Barbosa,pintomarcos-vinicius@example.net,+55 (084) 2184-4304,"Quadra de Alves
+Vila Dos Anjos
+70844-506 Cunha dos Dourados / MT",Freitas da Prata,MS,BR,"44687027",1986-01-28,2020-10-23
+24,Beatriz,Jesus,ana-lauracorreia@example.org,"41 4245 9129","Vila Lima, 7
+Nossa Senhora De Fátima
+63034115 Santos de Gomes / AP",Ferreira,GO,BR,"14130-005",1976-12-05,2021-11-08
+25,Agatha,Freitas,laurasantos@example.org,+55 (081) 8349 8794,"Praça de Rodrigues, 54
+Apolonia
+17154105 Rodrigues / TO",da Mata,PA,BR,"60004-690",1976-08-19,2022-01-01
+26,Maria Sophia,Barros,kmoreira@example.net,+55 71 3084 9991,"Ladeira Yuri Sales, 4
+Vila Paquetá
+34535-870 Pereira de Porto / SE",Moraes Alegre,RO,BR,"79347540",1971-12-05,2021-02-23
+27,Noah,da Conceição,natalia00@example.org,(031) 6628-1289,"Favela de Pinto, 872
+Conjunto Celso Machado
+84445053 Ferreira do Sul / RN",Gonçalves,PA,BR,"43063040",1972-11-09,2021-01-09
+28,Bianca,Teixeira,cavalcantipedro-miguel@example.com,+55 (051) 4389-8001,"Avenida Correia, 24
+Olaria
+61282-243 Alves de Minas / PR",Mendes da Mata,MG,BR,"16640-140",1973-02-02,2020-12-11
+29,Gabrielly,Castro,noahsales@example.net,+55 (081) 4761-1949,"Pátio Anthony Farias, 45
+Pedreira Padro Lopes
+23551-678 Araújo do Norte / BA",Freitas,MS,BR,"11270-792",1982-01-18,2021-04-22
+30,Leonardo,Campos,heloisa80@example.net,+55 84 3848 6685,"Vale Moraes, 1
+Heliopolis
+13368561 Nunes de Castro / RO",Sales do Oeste,RN,BR,"54950-934",1982-09-07,2021-02-10
+31,João,Novaes,nataliacastro@example.net,+55 (084) 6303-4881,"Colônia de Gonçalves, 45
+Califórnia
+31079-480 Silveira Alegre / AP",Duarte,SC,BR,"79531-666",1986-03-01,2022-07-03
+32,Ana Laura,Azevedo,scavalcanti@example.com,+55 (081) 8587-9054,"Loteamento Arthur Viana, 1
+Maria Goretti
+92136895 Pinto / GO",Oliveira de da Conceição,SC,BR,"13005-826",2002-07-08,2021-12-16
+33,Caroline,da Paz,da-cruzalana@example.com,(011) 1005-5185,"Travessa de da Mata, 119
+Caetano Furquim
+39324630 Freitas / PE",Pinto do Sul,MG,BR,"53564-452",1980-02-29,2020-09-24
+34,Júlia,Castro,nicolas95@example.com,(021) 1764 9269,"Favela Pires, 14
+Bonfim
+32471-457 Campos / BA",Gonçalves do Oeste,SE,BR,"65018-228",1973-03-10,2020-12-02
+35,Maysa,Cardoso,davi-lucca50@example.org,+55 (081) 4970-7281,"Condomínio Eduardo Aragão, 1
+Itapoa
+70218-828 Rodrigues / BA",Jesus das Pedras,RS,BR,"67924-078",1988-02-18,2021-01-25
+36,Isabella,Farias,bryanalmeida@example.com,"61 4698-8131","Ladeira de Viana, 313
+Álvaro Camargos
+90784317 Silveira de Ribeiro / MT",Teixeira,AP,BR,"92340587",1981-04-21,2021-06-05
+37,Thales,da Luz,yviana@example.net,+55 71 0640 7427,"Núcleo Araújo
+Esplanada
+19708-069 da Conceição / PI",Vieira das Flores,PB,BR,"40557020",1989-09-17,2020-07-29
+38,Danilo,Martins,eduarda91@example.net,(061) 0967-9746,"Via de Duarte
+São Cristóvão
+65786029 Dias de da Costa / ES",Cardoso,RR,BR,"83609-732",1979-09-22,2020-09-05
+39,Lara,Melo,alexiacorreia@example.org,"0900-945-3326","Avenida Caio da Paz, 502
+Vila Madre Gertrudes 4ª Seção
+72757-854 Fogaça Alegre / CE",Moreira,GO,BR,"23979515",1974-09-26,2020-11-21
+40,Juliana,Ribeiro,pda-conceicao@example.net,+55 (051) 2302 6689,"Favela Stephany Martins, 93
+Vila De Sá
+69587491 Monteiro de da Mota / RO",Azevedo Paulista,SE,BR,"93440-634",1979-11-28,2021-09-10
+41,Ana Laura,Fernandes,pietro65@example.com,"11 7996-1810","Sítio Maria Clara das Neves, 35
+Santa Terezinha
+73392098 Pereira do Campo / PR",Dias,PR,BR,"85982-744",1994-06-02,2022-05-12
+42,Ana Júlia,Farias,knascimento@example.net,"0300 737 5335","Aeroporto Erick da Cunha, 94
+Flamengo
+05794931 Correia / GO",Cunha,PE,BR,"29335482",1998-02-17,2021-11-24
+43,Alexia,Araújo,isissales@example.org,(081) 8923-3423,"Conjunto Stella Barros, 68
+Vila Atila De Paiva
+79992-542 Lima do Campo / GO",da Conceição,ES,BR,"07631475",1991-09-14,2021-02-17
+44,Renan,Oliveira,breno10@example.net,+55 (021) 2559 8000,"Vale de Nascimento
+Vila Maloca
+12439407 Alves Alegre / GO",Silveira,RR,BR,"54505770",1994-04-15,2022-04-21
+45,Agatha,Costa,carolina38@example.org,"51 6048 9952","Favela de da Mota, 80
+Paulo Vi
+96764033 Gomes / AM",das Neves de Cardoso,MA,BR,"14773116",2004-03-21,2021-12-12
+46,Luna,Carvalho,beniciorezende@example.net,+55 31 0632 8645,"Via Costa
+Nossa Senhora De Fátima
+13338-772 Cunha do Campo / AM",da Paz,AM,BR,"43870-190",1977-03-11,2021-10-10
+47,Lorena,da Paz,vitor-gabriel85@example.net,+55 51 6948 7541,"Loteamento Duarte, 3
+Vila Piratininga
+84402322 Moreira Alegre / BA",Moura do Campo,MS,BR,"65561608",1966-11-11,2022-04-20
+48,Rafael,Pires,esales@example.net,"0900-737-5628","Viela de Caldeira, 265
+Leticia
+58898588 Ferreira / MG",Pereira de da Mata,MS,BR,"98783625",1983-03-11,2021-06-10
+49,Noah,da Cunha,pereiraaugusto@example.net,+55 21 3206 7887,"Vereda Luiz Felipe Mendes, 6
+Tupi A
+56006-751 Moreira / MT",Freitas,PE,BR,"99689222",1970-11-07,2020-12-05
+50,Maria Julia,Souza,isis61@example.com,+55 71 4700-3141,"Alameda de da Rocha, 8
+Vila Sumaré
+64497467 Azevedo do Galho / RN",Souza Paulista,AM,BR,"26602-530",1971-10-01,2022-05-05
+51,Clara,da Costa,silvamarcelo@example.com,"0500-344-9445","Campo de Carvalho, 42
+Caiçara - Adelaide
+20549-574 Moura de Cunha / PA",Rocha da Prata,PR,BR,"13479-017",1985-12-23,2020-09-23
+52,Pedro,Pereira,iazevedo@example.net,"0300-167-8005","Conjunto Luiz Felipe Cavalcanti, 48
+Vila Esplanada
+67542-469 Carvalho / SE",Pereira,SP,BR,"52905743",1994-07-07,2020-08-14
+53,Ana Luiza,Alves,wfogaca@example.org,+55 81 4803-9207,"Rua Mariane Cavalcanti, 5
+Chácara Leonina
+03326-314 Lima / PA",Ferreira,RO,BR,"34123-566",1987-06-08,2022-05-02
+54,Raul,Moreira,liviadas-neves@example.net,(021) 1796-7381,"Trevo Novaes
+Jardim Montanhês
+47013541 Ribeiro de Porto / AM",da Cunha de Porto,PR,BR,"95373-831",2005-10-12,2021-12-07
+55,Pedro,da Mota,cardosoeduardo@example.net,+55 11 7757 4825,"Recanto das Neves, 32
+São Damião
+52526-864 Novaes / AM",da Mata do Norte,AM,BR,"84080721",1975-10-11,2021-12-27
+56,Valentina,Pires,wpeixoto@example.com,+55 81 2088-3270,"Lago Luiz Miguel Lopes
+São Salvador
+26577-097 da Mota / AM",da Cunha da Mata,AL,BR,"14765458",1985-07-09,2022-01-19
+57,Milena,Campos,calebefernandes@example.org,"21 5280 3231","Distrito Nascimento, 56
+Santa Helena
+12999-924 Pires / SC",Monteiro,RO,BR,"34510597",1989-01-09,2020-11-21
+58,Gustavo Henrique,Gomes,dmoraes@example.org,+55 51 1631 6150,"Vereda Camila Moraes, 48
+Vila Madre Gertrudes 4ª Seção
+80204-729 Mendes / MS",das Neves,MA,BR,"70880-717",1987-02-19,2022-07-03
+59,Esther,Moreira,joao-miguel26@example.com,+55 61 3470-7508,"Vila da Luz, 762
+Flavio Marques Lisboa
+55126963 Lopes do Campo / RN",Cunha,MA,BR,"13351438",1997-09-01,2021-06-16
+60,Pedro Lucas,Gomes,sgomes@example.com,"61 8951-2247","Núcleo Murilo Costela
+Estrela
+36289552 Moura / MA",Nascimento de Fogaça,SP,BR,"96350900",1977-07-08,2021-03-02
+61,João Felipe,Peixoto,luiza93@example.com,+55 11 6544-4462,"Núcleo da Mota, 78
+Chácara Leonina
+79463-300 Lima / PR",Viana,DF,BR,"12118-927",2002-03-26,2021-07-14
+62,João Miguel,Cardoso,pda-paz@example.org,"71 5585 4229","Lagoa Santos, 47
+Carlos Prates
+27680537 da Mota da Praia / SE",Castro,RR,BR,"68576604",1990-05-21,2022-01-14
+63,Vitor,Nogueira,otavio46@example.net,"41 9021 1913","Recanto Araújo, 62
+Maria Virgínia
+36031-034 Freitas do Campo / PR",Moreira de Minas,PE,BR,"65469433",1970-04-20,2021-07-16
+64,Ana Júlia,Ribeiro,zmoraes@example.org,"41 3597-1552","Área Pedro Henrique Rodrigues, 35
+Savassi
+00059-702 Novaes / CE",Alves de Minas,AM,BR,"08631992",2002-12-10,2021-08-14
+65,Eduarda,da Conceição,clara59@example.com,"71 8457 7274","Setor de da Rocha, 32
+Guaratã
+61172970 Jesus / TO",Gonçalves,MT,BR,"34057-285",1994-03-11,2022-04-09
+66,João Lucas,Pereira,omendes@example.net,+55 51 9360 5734,"Loteamento de da Cunha, 39
+Monte São José
+98764561 Lopes da Prata / RS",Lima da Serra,SC,BR,"78777-240",1991-10-05,2020-08-11
+67,Lucas,das Neves,vfernandes@example.com,"11 9530-1405","Trecho de Caldeira, 32
+Caetano Furquim
+83676950 Freitas do Amparo / TO",Costa de Minas,AL,BR,"47074-466",2002-08-27,2022-03-27
+68,Marcela,Pires,qlopes@example.net,"0900 197 8655","Condomínio de Santos, 83
+Vila Paraíso
+78425820 Cavalcanti / SC",da Mota,PI,BR,"34116-500",2003-03-28,2020-12-23
+69,Carlos Eduardo,Nogueira,da-luzdiego@example.com,"0500-240-0699","Rodovia Porto
+Ouro Minas
+10195666 Caldeira do Galho / AP",Duarte de Nunes,DF,BR,"82049658",1975-12-18,2022-01-28
+70,Bruna,Duarte,joao31@example.com,+55 84 0752-4371,"Via de Ramos, 24
+Biquinhas
+47350-473 Dias / SC",Carvalho,RO,BR,"51406-062",1966-01-10,2021-12-21
+71,Nicole,Melo,rochacarlos-eduardo@example.com,+55 31 0175-4020,"Viaduto Luiz Henrique da Paz, 79
+Nova Granada
+77391-651 Peixoto do Oeste / AL",Moreira,PI,BR,"62903-874",1975-05-01,2022-06-06
+72,Lara,Alves,da-rosalivia@example.org,+55 (021) 3440-7780,"Colônia Azevedo, 9
+Madri
+21603084 Cardoso dos Dourados / RJ",Moraes,TO,BR,"75587984",1994-09-04,2021-11-08
+73,Luiz Fernando,Teixeira,monteirojoao@example.net,(081) 1390-4572,"Fazenda Catarina Nunes
+Buraco Quente
+65846516 Cavalcanti Verde / BA",da Conceição,SC,BR,"23521-325",1978-01-26,2020-12-11
+74,Davi,Gomes,joao-miguelda-conceicao@example.net,"0300-529-2918","Praça Pedro Fernandes, 69
+Vila Olhos D'água
+55612233 Santos da Serra / MG",Campos do Sul,RJ,BR,"72915937",1973-03-27,2021-07-30
+75,Luana,Azevedo,sdias@example.org,+55 84 4320-6746,"Passarela Alves, 41
+Vila Trinta E Um De Março
+93586036 da Paz de Oliveira / DF",Costela,PE,BR,"83790-638",1996-10-17,2021-06-06
+76,Rebeca,Jesus,vitorbarros@example.net,"21 7811 8837","Área Teixeira, 932
+Cenaculo
+85245456 Ribeiro / SC",da Cunha,SC,BR,"71507-825",1998-11-28,2021-03-26
+77,Noah,Souza,tramos@example.net,+55 (031) 6298 6062,"Travessa de Rodrigues, 1
+Piraja
+93835714 da Cunha / AC",da Luz,PA,BR,"27796863",1981-08-28,2022-02-26
+78,Ana Julia,Pinto,maria-sophia29@example.net,"21 4493 8125","Favela de Nogueira, 24
+Vila Satélite
+11029-110 da Paz / RO",da Costa,RO,BR,"38676-264",1981-02-05,2021-06-26
+79,Marcos Vinicius,Pinto,correiapaulo@example.org,(081) 8742-5364,"Jardim Olivia Moura
+Pindura Saia
+42255106 Fernandes do Amparo / PI",Nascimento,SE,BR,"66381-556",1974-09-01,2022-04-25
+80,Camila,Freitas,brunopeixoto@example.net,+55 11 2902-9482,"Colônia Daniela Peixoto, 2
+Vila Petropolis
+76187865 Almeida / CE",Alves de da Cruz,MG,BR,"78433-674",1978-05-07,2021-01-05
+81,Maria Fernanda,Moraes,qda-cruz@example.net,"84 0636-5393","Fazenda Yasmin Dias, 758
+Santa Monica
+09589093 Santos / MT",Fogaça,AP,BR,"71198973",1975-01-02,2020-08-04
+82,Gustavo Henrique,Monteiro,lpinto@example.com,+55 (051) 8259-7474,"Vila de Azevedo, 3
+Conjunto Novo Dom Bosco
+52904-038 Silva de Costela / MA",Mendes de Silva,RJ,BR,"17926827",1976-07-24,2020-09-23
+83,Isabelly,Santos,alanamoraes@example.com,(041) 5828 5361,"Feira de Mendes, 32
+Savassi
+02456-893 Moraes / RJ",Castro,CE,BR,"56450806",1979-05-23,2021-11-16
+84,João Miguel,Freitas,rda-conceicao@example.org,+55 (084) 0749-0910,"Avenida Luiz Miguel Aragão, 40
+Vila São Rafael
+80472-435 Nascimento da Praia / AP",Jesus,PR,BR,"64141990",1995-04-29,2021-07-21
+85,Breno,Farias,brunapereira@example.com,+55 (021) 3419-8911,"Esplanada de Porto, 13
+Jardim Guanabara
+03636765 Viana do Oeste / TO",Novaes Alegre,RO,BR,"85677-699",1972-06-06,2020-08-11
+86,Vitor,Costa,marianecardoso@example.com,+55 84 4549 8223,"Aeroporto da Mota, 45
+Palmeiras
+29662-198 Jesus / AP",das Neves Grande,ES,BR,"84546515",1967-04-26,2020-10-04
+87,Pedro Henrique,Fogaça,cardosoeduarda@example.org,+55 (021) 8860-7416,"Vereda de Jesus, 95
+Céu Azul
+26810310 Lima / RN",Castro,MT,BR,"87490-493",1991-11-14,2022-05-15
+88,Caroline,Aragão,ecampos@example.org,(084) 7308-0140,"Alameda de Lima, 251
+Vila Boa Vista
+72326-791 Monteiro de Rocha / MA",Nascimento da Mata,SC,BR,"97498955",1996-09-03,2022-01-24
+89,Calebe,Ramos,xaragao@example.net,+55 61 4787-2419,"Estrada de Sales, 251
+Dom Joaquim
+56632-790 Correia / CE",Costela,AM,BR,"64709-603",2000-01-15,2020-11-23
+90,Nicolas,Viana,claricecostela@example.com,+55 (051) 6874 7801,"Rodovia Kevin Aragão, 38
+Bairro Das Indústrias Ii
+77949-308 Carvalho de Minas / CE",Pereira,AC,BR,"74984879",1985-12-21,2022-02-05
+91,Alexia,Freitas,sabrina46@example.com,+55 81 6577 1740,"Colônia de da Mota, 48
+Nova Vista
+24141-501 Cunha da Praia / RS",da Cunha,AC,BR,"24949-861",1985-08-22,2021-08-03
+92,Felipe,Rodrigues,natalia24@example.net,+55 (071) 3115 0311,"Estrada Peixoto, 587
+Jardim Guanabara
+01783-810 da Conceição / AL",Barros da Serra,SE,BR,"20522324",1974-12-12,2021-03-29
+93,Maria Cecília,Freitas,pmoreira@example.com,"61 8023 8412","Loteamento de Barros, 93
+Petropolis
+07463-092 da Paz do Oeste / TO",Viana,PR,BR,"22494-545",1989-04-24,2020-08-25
+94,Francisco,Nunes,maria-sophiasantos@example.com,+55 71 7087-7028,"Vila de Melo, 64
+Jonas Veiga
+94149-163 Jesus do Galho / RS",da Mota,TO,BR,"36510-251",1971-04-02,2020-10-14
+95,Yasmin,da Cunha,isabel01@example.com,"21 3112 0249","Lago de das Neves, 3
+Vale Do Jatoba
+04279261 Dias do Sul / MS",Porto,RR,BR,"88989855",1997-05-05,2021-02-09
+96,Maria Sophia,Campos,olivia27@example.org,(011) 0336-0040,"Fazenda Araújo, 857
+Castanheira
+02607874 Farias dos Dourados / AM",Pereira das Flores,RN,BR,"83760194",1971-01-01,2021-03-04
+97,Emanuelly,Gonçalves,luanaalves@example.org,"0300 929 7132","Rua Kamilly Campos, 59
+Dom Bosco
+50456439 Moura dos Dourados / AP",da Conceição Paulista,SP,BR,"20998-716",1988-04-28,2021-08-16
+98,Davi,das Neves,lcastro@example.org,"61 0295-0977","Viaduto João Felipe da Rocha, 622
+Pilar
+26108761 Monteiro de Jesus / PE",da Conceição de Costa,PB,BR,"93869053",2003-01-26,2022-04-04
+99,Ian,Santos,ryan48@example.net,"0800-582-2758","Núcleo Kamilly Fernandes, 26
+Araguaia
+88563661 Monteiro / MG",Cardoso,SE,BR,"10523832",1976-05-30,2022-03-14
+100,Pedro Lucas,Martins,ana-beatrizfogaca@example.com,+55 84 3463-9015,"Trecho Alves, 87
+Vera Cruz
+22543-755 da Conceição / AP",da Cruz,SE,BR,"23898873",1997-02-16,2022-03-06

@@ -1,0 +1,12 @@
+version: 2
+
+sources:
+  - name: saque_e_voleio_erp
+    schema: source
+    tables:
+      - name: clientes
+      - name: produtos
+      - name: pedidos
+      - name: pedido_item
+      - name: produto_categorias
+      - name: lojas
