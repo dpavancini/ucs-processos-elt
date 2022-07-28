@@ -32,10 +32,10 @@ Ao final deste processo, o banco de dados `data-warehouse` deverá estar online 
 
 ### Conectando no dbt
 
-Acesse a pasta do `projeto_dbt` através do comando:
+Acesse a pasta do `atividade_pratica` através do comando:
 
 ```
-cd projeto_dbt
+cd atividade_pratica
 ```
 
 Também será necessário configurar um ambiente virtual Python (você precisará do `>python 3.7` instalado em seu computador):
