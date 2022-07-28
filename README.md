@@ -14,7 +14,7 @@ No exemplo a seguir os dados do banco de dados da Saque Voleio já estão dispon
 
 ### Iniciando o Banco de Dados de Exemplo (PostgreSQL)
 
-Os dados de exemplo do ERP da Saque Voleio estão disponíveis na pasta `dados`. As instruções para iniciar um banco de dados PostgreSQL com os dados estão abaixo (você vai precisar do `docker-compose` instalado em seu computador):
+Os dados de exemplo do ERP da Saque Voleio estão disponíveis na pasta `dados`. As instruções para iniciar um banco de dados PostgreSQL com os dados estão abaixo (você vai precisar do `docker-compose=3.8` instalado em seu computador):
 
 ```bash
 docker-compose up -d
@@ -80,7 +80,7 @@ As instruções abaixo indicam como realizar o processo ELT desde o início atra
 Se você quiser seguir o exemplo completo, utilize o seguintes comandos (será necessário um maior conhecimento técnico):
 
 ```bash
-docker-compose-completo up -d
+docker-compose -f docker-compose-completo.yaml up
 ```
 
 ### Configurando a ferramenta de integração (Airbyte) [Opcional]
